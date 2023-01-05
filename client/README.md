@@ -3,13 +3,12 @@
 
 This VUE project was adopted from the following repo: https://github.com/sitepoint-editors/vue-news-app
 
-## Need to complete:
+### Need to complete:
 ability to sort data with a dropdown list
 
 
 ## Run Locally:
 
-## Project setup
 ```
 npm install
 ```
