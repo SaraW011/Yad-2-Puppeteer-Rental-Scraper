@@ -1,0 +1,38 @@
+{
+  "name": "yad2_puppeteer",
+  "version": "1.0.0",
+  "description": "scraping rental prices from yad2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [
+    "yad2",
+    "puppeteer"
+  ],
+  "author": "Sara Weissman",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-rate-limit": "^6.7.0",
+    "express-winston": "^4.2.0",
+    "fs": "^0.0.1-security",
+    "helmet": "^6.0.0",
+    "mongoose": "^6.8.0",
+    "nodemon": "^2.0.20",
+    "puppeteer": "^19.3.0",
+    "puppeteer-cluster": "^0.23.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-adblocker": "^2.13.5",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "random-useragent": "^0.5.0",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-plugin-react": "^7.31.11"
+  }
+}
