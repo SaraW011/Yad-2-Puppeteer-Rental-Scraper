@@ -1,9 +1,6 @@
 # Yad-2 Scraper with Puppeteer
 `**Adapted By Sara Weissman**`
 
-## 🦄 About Me
-I'm a junior full stack developer, working with React.js and Node.js,  **Currntly open for hire.**
-
 ### This project is open for collaboration.
 
 *The project aims to scrape apartment rental prices from Yad-2 (Hebrew IL) site: https://www.yad2.co.il/realestate/rent*
